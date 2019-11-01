@@ -1,0 +1,2 @@
+# bnewstest
+test b newsrepe
